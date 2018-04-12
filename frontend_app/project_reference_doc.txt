@@ -1,0 +1,5 @@
+1. github link for generating components,pipes,directives,services using angular cli
+https://github.com/angular/angular-cli#generating-components-directives-pipes-and-services
+
+2. how to ignore file to be checked in git system
+https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3
