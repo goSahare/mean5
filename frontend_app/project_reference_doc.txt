@@ -3,3 +3,12 @@ https://github.com/angular/angular-cli#generating-components-directives-pipes-an
 
 2. how to ignore file to be checked in git system
 https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3
+
+3. Routing in angular 2,4,5
+3.1 https://appdividend.com/2017/09/23/angular-router-tutorial-example/
+3.2 https://www.sitepoint.com/component-routing-angular-router/
+3.3 http://devarea.com/angular-5-routing-practical-guide/#.WtC0vy5ubIU
+3.4 http://blog.ng-book.com/basic-routing-in-angular-2/
+
+
+
