@@ -8,10 +8,10 @@ let port = 6200;
 
 // Connection to DB
 
-let dbUri = 'mongodb://gosahare:S2ftwAre@ds147480.mlab.com:47480/mean5'
+let dbUri = 'lol :)'
 mongoose.connect(dbUri)
-    .then( => {
-      
+    .then(param => {
+      console.log('Database connected.');
     })
     .catch(err => {
         console.error('Backend error:', err.stack);
